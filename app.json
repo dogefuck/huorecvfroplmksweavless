@@ -7,10 +7,10 @@
   "env": {
     "UUID": {
       "description": "VLESS UUID",
-      "value": "10974d1a-cbd6-4b6f-db1d-38d78b3fb109"
+      "value": "df8cd3fd-0b73-4a08-ac00-c90ac0567ca0"
     }
   },
   "website": "https://github.com/rptec/",
-  "repository": "https://github.com/rptec/heroku-vless",
+  "repository": "https://github.com/vtcstudent2021/VlessHeroku",
   "stack": "container"
 }
